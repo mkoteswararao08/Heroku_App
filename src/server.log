@@ -1,0 +1,11 @@
+Fri Aug 23 2019 19:16:51 GMT+0530 (India Standard Time) :::: GET :::: /
+Fri Aug 23 2019 19:16:51 GMT+0530 (India Standard Time) :::: GET :::: /favicon.ico
+Fri Aug 23 2019 19:16:53 GMT+0530 (India Standard Time) :::: GET :::: /
+Fri Aug 23 2019 19:16:54 GMT+0530 (India Standard Time) :::: GET :::: /addUser
+Fri Aug 23 2019 19:16:56 GMT+0530 (India Standard Time) :::: GET :::: /UserList
+Fri Aug 23 2019 19:17:00 GMT+0530 (India Standard Time) :::: GET :::: /Delete/1
+Fri Aug 23 2019 19:17:00 GMT+0530 (India Standard Time) :::: GET :::: /UserList
+Fri Aug 23 2019 19:17:02 GMT+0530 (India Standard Time) :::: GET :::: /updatepage?id=1
+Fri Aug 23 2019 19:17:07 GMT+0530 (India Standard Time) :::: GET :::: /addUser
+Fri Aug 23 2019 19:17:17 GMT+0530 (India Standard Time) :::: POST :::: /addUser
+Fri Aug 23 2019 19:17:17 GMT+0530 (India Standard Time) :::: GET :::: /UserList
